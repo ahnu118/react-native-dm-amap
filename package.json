@@ -3,10 +3,19 @@
   "version": "1.0.0",
   "description": "react-native AMap native module",
   "main": "index.js",
+  "author": {
+        "name": "ahnu118",
+        "email": "596090355@qq.com"
+   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "homepage":"https://github.com/ahnu118/react-native-dm-amap"
+  "repository": {
+    "type": "git",
+    "url": "git@//github.com/ahnu118/react-native-dm-amap.git"
+  },
+  "author": "zooble",
   "license": "ISC",
   "dependencies": {
     "react-native": ">=0.34.0"
