@@ -10,8 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage":"https://github.com/ahnu118/react-native-dm-amap"
-  "repository": {
+  "homepage":"https://github.com/ahnu118/react-native-dm-amap",
+  "repository":{
     "type": "git",
     "url": "git@//github.com/ahnu118/react-native-dm-amap.git"
   },
